@@ -6,4 +6,10 @@ Basic boilerplate for React.js development including
   - React
   - Axios
   
-Just run npm run start and you will have a hello world app ready to work.
+# 1 Install dependencies
+
+npm run install 
+
+# 2 Start dev server & ready to code
+
+npm run start
